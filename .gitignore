@@ -2,10 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-dev/thepaulcode/repository/GeradorMensagemRepository.java
-dev.thepaulcode.repository.OrdemServicoRepository
-dev.thepaulcode.model.GeradorMensagem
-dev.thepaulcode.model.OrdemServico
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -41,3 +38,7 @@ build/
 ### Mac OS ###
 .DS_Store
 
+dev/thepaulcode/repository/GeradorMensagemRepository.java
+dev/thepaulcode/repository/OrdemServicoRepository.java
+dev/thepaulcode/model/GeradorMensagem.java
+dev/thepaulcode/model/OrdemServico.java
